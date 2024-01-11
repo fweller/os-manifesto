@@ -1,0 +1,28 @@
+SUSE - RPM, ZYpper
+
+- [OpenSUSE](https://www.opensuse.org/) - ***POPULAR***
+    - [Tumbleweed](https://www.opensuse.org/#Tumbleweed) = Rolling release
+    - [Leap](https://www.opensuse.org/#Leap) = Point release
+    - KDE Plasma is the main WM - It is beautiful!
+    - Very upstream yet also very stable due to testing - known to be stable
+    - Preferred for laptops
+    - snapshots allow rolling back changes
+    - The YAST installer is exceptional
+    - [community](https://opensuse-community.org/)
+    - I tested this distro. and I think it is attractive and assembled extremely well.  This is one of my favorite distributions, but I am not using it because I am more familiar with Debian DEB packages than with Zypper RPM packages.  Compared to the other 2 corporate desktop OS distros (fedora and ubuntu) I feel that OpenSUSE is the best put together. 
+- SLE [SUSE Enterprise Linux](https://www.suse.com/) -
+    - downstream of OpenSUSE Tumbleweed
+    - Two flavors:
+        - Server (SLES) for servers and mainframes
+        - Desktop (SLED) for workstations and desktop computers
+    - Gnome, IceWM
+    - Oldest Linux Distro #3 after Debian
+    - Germany, Nuremberg
+- [OpenSUSE](https://www.opensuse.org/) [Leap](https://www.opensuse.org/#Leap) - ***POPULAR***
+    - Point release
+    - This is SUSE plus extra packages
+    - KDE Plasma is the main WM
+    - German government has adopted OpenSUSE with IBM
+- [Gecko](http://geckolinux.github.io/) - point and rolling
+    - downstream of OpenSUSE
+    - Will not see new releases

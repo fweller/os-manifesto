@@ -1,0 +1,39 @@
+non-unix operating systems
+
+- [OS-9](https://en.wikipedia.org/wiki/OS-9)
+    - Written by Microware in 1979 for the Motorola 6809 microprocessor
+    - Is still available today as OS-9000 for 32bit 
+    - I used this in the late 80's to early 90's on a TRS-80 CoCo III computer using the Motorola 6809 CPU
+    - Was a very decent OS with a good desktop environment
+- [OS/2](https://en.wikipedia.org/wiki/OS/2)
+    - IBM operating system for the PC that was intended to replace PC DOS
+    - Was technically superior to Microsoft Windows but failed to penetrate the consumer market
+- [Microsoft Windows](https://www.microsoft.com/en-us/windows) *** POPULAR ***
+    - #1 desktop OS in the world but losing share each year to MacOS
+    - My biggest compliments for this OS are
+        - Supports nearly all hardware
+        - Very good filesystem
+        - Very stable (Windows 10 and 11 only)
+        - Gets all the best GPU drivers
+        - All software is available for this OS
+        - Very customizable
+        - The best video games are released on this OS
+    - My biggest complaints of this OS are:
+        - Highly insecure, viruses and malware run rampant
+        - Draconian practices by Microsoft to spy on customers
+        - Kernel is inefficient
+        - Registry is just an awful idea
+        - Not POSIX complient
+        - Was terrible for scripting, but now it uses Linux Subsystem for Windows which isn't half bad
+    - Versions of Windows and my opinion on them
+        - 1 , 2 - never touched them
+        - 3 - Used at work, it was awful.  crashed all the time.  looked like shit.
+        - 95 - Used at work, it was slightly less awful than 3
+        - 98 - Used at work, it was slightly less awful than 95
+        - 2000 - Used personally and at work.  the NT kernel crashes way less than the old one.
+        - XP - Used personally and at work.  Crashed slightly less than 2000
+        - Vista - Did not use. Was considered a failed release.
+        - 7 - Used personally and at work.  Fairly stable.  Mostly usable.  I started to like this OS finally.
+        - 8 - Did not use. Was considered a failed release.
+        - 10 - Used personally and at work. Very stable and usable.  I can use this OS and not hate it.
+        - 11 - Used personally.  Seems very stable.  Looks nicer than 10.  Might improve on the virus and malware issue.
