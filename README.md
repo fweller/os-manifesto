@@ -33,14 +33,10 @@ These are the topics to consider when comparing Linux distro's
 - What is the default [Display server](display-servers.md)?
 - What [Init System](init-systems.md) is used?
 - What are the primary supported [Filesystems](filesystems.md)?
-- What bootloaders do they use?
-- What system installer do they use?
-    - Calamares, Ubiquity, Anaconda, YaST, Debian-Installer
+- What [bootloader](bootloaders.md) is used?
+- What [system installer](system-installers.md) do they use?
 
-[Bootloaders](bootloaders.md)
-[System installers](system-installers.md)
-
-## My list of Linux distributions with my opinions
+## Linux distributions
 
 [linux-distros.md](linux-distros.md)
 [linux-distros-debian.md](linux-distros-debian.md)
@@ -53,20 +49,22 @@ These are the topics to consider when comparing Linux distro's
 
 ## Unix-like and non-Unix distributions
 
-[Unix flavors](unix-flavors.md)
-[Unix-like distributions](unix-like-distros.md)
-[non-unix-distros.md](non-unix-distros.md)
+- [Unix flavors](unix-flavors.md)
+- [Unix-like distributions](unix-like-distros.md)
+- [non-unix-distros.md](non-unix-distros.md)
 
 ## Operating system kernels and special Linux kernels
 
-[Kernels](kernels.md)
-[Linux kernels](kernels-linux.md)
+- [Kernels](kernels.md)
+- [Linux kernels](kernels-linux.md)
 
 ## Linux history and statistics
 
-[Linux history](linux-history.md)
-[linux-facts.md](linux-facts.md)
-[desktop-statistics.md](desktop-statistics.md)
+This needs editing or removal
+
+- [Linux history](linux-history.md)
+- [linux-facts.md](linux-facts.md)
+- [desktop-statistics.md](desktop-statistics.md)
 
 ## My experience and recommendations
 
