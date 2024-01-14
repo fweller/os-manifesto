@@ -1,20 +1,32 @@
-Package Management
+# Package Management
 
 [List of software package management systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems#Linux)
-
 [Package Managers](https://en.wikipedia.org/wiki/Package_manager)
-
 [Package Formats](https://en.wikipedia.org/wiki/Package_format)
 
-- [DEB](https://en.wikipedia.org/wiki/Deb_%28file_format%29) used in Debian (Ubuntu, Mint) land
-- [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager) used in Red Hat (Fedora) and SUSE land
-- [PKG.tar.zst](https://wiki.archlinux.org/title/pacman) used in Arch (Manjaro) land
-- [ebuild](https://wiki.gentoo.org/wiki/Ebuild) used in Gentoo land, is just a test file with instructions on how to build
-- [Flatpak](https://en.wikipedia.org/wiki/Flatpak) - can be used by any Linux distro. [Flathub](https://flathub.org/apps) store.  [install](https://flatpak.org/setup/Debian) store app in linux.
-- [AppImage](https://en.wikipedia.org/wiki/AppImage) - can be used by any Linux distro. [AppImage](https://appimage.github.io/apps/) store.  has no store app for linux.
-- [Snap](https://en.wikipedia.org/wiki/Snap_%28software%29) - can be used by any Linux distro. [Snapcraft](https://snapcraft.io/store) store.  [install](https://snapcraft.io/install/snap-store/debian) store app in linux.
+## Distribution package formats
 
-Package Manager Front Ends 
+- [DEB](https://en.wikipedia.org/wiki/Deb_%28file_format%29) used in Debian (Ubuntu, Mint)
+- [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager) used in Red Hat (Fedora) and SUSE
+- [PKG.tar.zst](https://wiki.archlinux.org/title/pacman) used in Arch (Manjaro)
+- [ebuild](https://wiki.gentoo.org/wiki/Ebuild) used in Gentoo, is just a test file with instructions on how to build
+
+## Application package formats
+
+These package formats can be added to any Linux distribution
+
+- [Flatpak](https://en.wikipedia.org/wiki/Flatpak)
+  - [Flathub](https://flathub.org/apps) is the app store
+  - This is the most popular format
+- [AppImage](https://en.wikipedia.org/wiki/AppImage)
+  - [AppImage](https://appimage.github.io/apps/) is the attempt at an application store
+  - This format is less popular
+- [Snap](https://en.wikipedia.org/wiki/Snap_%28software%29)
+  - [Snapcraft](https://snapcraft.io/store) is the application store
+  - Owned by Canonical (Ubuntu)
+  - Receives a lot of criticism but is actually a very good platform
+
+## Package Manager Front Ends
 
 - for [DEB](https://en.wikipedia.org/wiki/Deb_%28file_format%29)
     - [DPKG](https://en.wikipedia.org/wiki/Dpkg) (Debian Package) base 

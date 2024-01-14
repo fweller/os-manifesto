@@ -25,34 +25,18 @@ These are the topics to consider when comparing Linux distro's
   - Thousands, hundreds, dozens, a few, one?
   - Distros with only a few developers can easily become abandoned
 - Are packages downstream of another distro or are they pulled from the source
-- What is the release type?
-  - Point release vs rolling release
-- What is the package format (deb, rpm, pkg, etc) 
-  - and what are the package managers? (APT, RPM, ZYpper, Pacman, etc)
-- What is the flagship desktop environment offered?
-  - KDE Plasma, Cinnamon, Xfce, Gnome, etc.
-- What is the primary display server? (X11, Wayland, etc)
-- What init system does the distro use? 
-  - Systemd, SysVinit, OpenRC, etc.
-- What are the primary supported filesystems?
+- What is the [release type](release-type.md)?
+- What is the [package management](package-management.md) and supported package managers?
+- What are the default [application packaging](application-packaging.md) format?
+- What is the flagship [Desktop Environment](desktop-environments.md)?
+- What is the default [Display manager](display-managers.md)?
+- What is the default [Display server](display-servers.md)?
+- What [Init System](init-systems.md) is used?
+- What are the primary supported [Filesystems](filesystems.md)?
 - What bootloaders do they use?
 - What system installer do they use?
     - Calamares, Ubiquity, Anaconda, YaST, Debian-Installer
 
-
-[Linux distro differentiations](considerations.md)
-[Release types](release-type.md)
-[Package management](package-management.md)
-
-[Desktop environments](desktop-environments.md)
-[Display managers](display-managers.md)
-[Display servers](display-servers.md)
-[Widget toolkits](widget-toolkits.md)
-[Window managers](window-managers.md)
-[Grid tiling](grid-tiling.md)
-
-[Init systems](init-systems.md)
-[Filesystems](filesystems.md)
 [Bootloaders](bootloaders.md)
 [System installers](system-installers.md)
 
