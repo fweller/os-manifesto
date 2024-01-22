@@ -48,9 +48,13 @@ The most popular distributions on the page are
   - BTRFS + Snapper, Timeshift backup, Calamares
   - India
 - [ArcoLinux](https://www.arcolinux.info/)
-  - ArcoLinux - full-featured w/ Xfce
-  - ArcoLinuxD  - minimal
-  - [ArcoLinuxB](https://arcolinuxb.com/) - minimal but with pre-configured desktops
+  - Belgium
+  - Makes the most use of Calamares installer I have ever seen
+  - Four Major Editions
+    - ArcoLinux XL - Xfce, complete
+    - ArcoLinux S - Xfce, minimal
+    - [ArcoLinux B](https://arcolinuxb.com/) - Selection of desktops, minimal
+    - ArcoLinux D  - No desktop, minimal
 - [Asahi](https://asahilinux.org/)
   - Runs on Apple Silicon
 - SteamOS
