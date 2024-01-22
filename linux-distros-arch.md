@@ -49,14 +49,19 @@ The most popular distributions on the page are
   - India
 - [ArcoLinux](https://www.arcolinux.info/)
   - Belgium
-  - Makes the most use of Calamares installer I have ever seen
+  - Xfce is the preferred DE
+  - [ALCI (Arch Linux Calamares Installer)](https://alci.online/) Makes the most use of the [Calamares installer](https://arcolinux.com/the-calamares-series-all-you-ever-need-to-know-about-calamares/) I have ever seen
+    - Select desktop environment during install
+    - Select kernel, theming, software, etc., during install
+  - Build you own ISO
+  - A lot of education provided on the install process
   - Four Major Editions
-    - ArcoLinux XL - Xfce, complete
+    - ArcoLinux L - Xfce, complete
     - ArcoLinux S - Xfce, minimal
     - [ArcoLinux B](https://arcolinuxb.com/) - Selection of desktops, minimal
-    - ArcoLinux D  - No desktop, minimal
+    - [ArcoLinux D](https://www.arcolinuxd.com/)  - No desktop, minimal
 - [Asahi](https://asahilinux.org/)
   - Runs on Apple Silicon
-- SteamOS
+- [SteamOS](https://store.steampowered.com/steamos)
   - For the Steam Deck
 
