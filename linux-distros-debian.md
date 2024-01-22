@@ -54,7 +54,7 @@ The most popular distributions on the page are
   - They write their own user [manual](https://manual.siduction.org/siduction-manual_en.pdf).  Their [github](https://github.com/siduction) stores the configuration and mods to offer to build their distro.
   - The installer is configured for Btrfs with Snapper rollback, all sitting on top of LUKS encryption.
   - This distro is nicely polished and I like it a lot.  I am running it on three of my computers.  
-- [Spiral](https://spirallinux.github.io/)  Linux - ***NEW AND PROMISING***
+- [Spiral](https://spirallinux.github.io/)  Linux - *NEW AND PROMISING*
   - This is more of a Debian installer than an actual distro
   - Based on Debian stable but easily upgraded to Testing or Sid
   - Single developer previously maintained Gecko Linux and has switched to Debian from OpenSUSE
@@ -80,14 +80,14 @@ The most popular distributions on the page are
   - SolydK: KDE Plasma DE
     - I tried SolydK in 2023.  It had not been updated since 2021 and was based on the previously released debian distro, so it felt old.  default partitioning was strange, seperating home from root but using ext4 is not ideal.  at least it allowed me to use xfs filesystem or btrfs on the install, so that has some promise.   it ships with some interesting kde plasma themes which may be worth looking at.   I will not use this.
   - SolydX: Xfce nDE
-- [MX Linux](https://mxlinux.org/) - ***POPULAR***
+- [MX Linux](https://mxlinux.org/) - *POPULAR*
   - Downstream of Debian Stable
   - KDE Plasma, XFCE, SysVInit w/ systemd-shim
   - Greece, venture between the antiX and former MEPIS Linux
 - [Netrunner](https://www.netrunner.com/)
   - Downstream of Debian Stable
   - KDE Plasma, Calamares Installer, Kvantum theme
-- [Deepin](https://www.deepin.org/en/) ***POPULAR***
+- [Deepin](https://www.deepin.org/en/) *POPULAR*
   - Downstream of Debian Stable
   - Chinese
 - [Kali](https://en.wikipedia.org/wiki/Kali_Linux)
@@ -111,7 +111,7 @@ The most popular distributions on the page are
 
 ## Ubuntu actual
 
-- [Ubuntu](http://www.ubuntu.com/) - ***POPULAR***
+- [Ubuntu](http://www.ubuntu.com/) - *POPULAR*
   - Ubuntu pulls packages from Debian Sid (Unstable) and Debian Testing
   - Most Popular Linux Distro #1 (From 2004 through 2022 at least)
   - Uses Gnome as their official DE (previously used Unity)
@@ -146,7 +146,7 @@ The most popular distributions on the page are
 
 ## Downstream of Ubuntu
 
-- [Linux Mint](https://linuxmint.com/) - ***POPULAR***
+- [Linux Mint](https://linuxmint.com/) - *POPULAR*
   - Downstream of Ubuntu LTS
   - Cinnamon developer
   - Most Popular Linux Distro #2 after Ubuntu
@@ -157,7 +157,7 @@ The most popular distributions on the page are
   - Is actually downstream of Debian instead of Ubuntu
   - Cinnamon default
   - [Needs some tuning to work nicely](https://linuxmint.com/rel_elsie.php)
-- [Pop!_OS](https://pop.system76.com/) - ***POPULAR***
+- [Pop!_OS](https://pop.system76.com/) - *POPULAR*
   - Gnome default
   - Supports almost every type of [desktop](https://support.system76.com/articles/desktop-environment/)
   - Good for graphics cards.  Two ISO's: AMD vs Nvidia. [roadmap](https://support.system76.com/articles/roadmap/)
@@ -168,7 +168,7 @@ The most popular distributions on the page are
   - From KDE for "the best" KDE experience
   - KDE Plasma on Wayland by default
   - Calamares installer
-- [Zorin OS](https://zorin.com/os/) - ***POPULAR***
+- [Zorin OS](https://zorin.com/os/) - *POPULAR*
   - Beautiful alternative to MacOS and Win10
   - Gnome or Xfce
   - Pro version is paid
