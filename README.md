@@ -50,27 +50,19 @@ I have split the list into 6 notes, each note is specific to a Linux ecosystem (
 
 ## Unix-like and non-Unix distributions
 
-- [Unix flavors](unix-flavors.md)
-- [Unix-like distributions](unix-like-distros.md)
-- [non-unix-distros.md](non-unix-distros.md)
+I have notes on [Unix and Unix-like distributions](unix-like-distros.md) as well as some [non-unix-like](non-unix-distros.md) distros worth mentioning.
 
 ## Operating system kernels and special Linux kernels
 
-- [Kernels](kernels.md)
-- [Linux kernels](kernels-linux.md)
+I have notes on [Kernel types and famous implementations](kernels.md) that can be interesting, as well as information on [Linux kernel types](kernels-linux.md) that are available to try.
 
 ## Linux history and statistics
 
-This needs editing or removal
+Reading about [Linux facts and statistics](linux-facts.md) is entertaining
 
-- [Linux history](linux-history.md)
-- [linux-facts.md](linux-facts.md)
-- [desktop-statistics.md](desktop-statistics.md)
+## The author's experience and recommendations
 
-## My experience and recommendations
-
-[My experience with Unix-like operating systems](author-experience.md)
-[Favorite Linux distributions](author-favorites.md)
-[Recommendations for distro-hopping](author-recommendation.md)
-[GPU (Graphics Processing Unit)](gpu.md)
-
+- [My recommendations to you for for distro-hopping](author-recommendation.md)
+- My warning to you about how the [GPU (Graphics Processing Unit)](gpu.md) in your computer may affect your enjoyment of installing Linux
+- [My experience with Unix-like operating systems](author-experience.md)
+- [My Favorite Linux distributions](author-favorites.md)

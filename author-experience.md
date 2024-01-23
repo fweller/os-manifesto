@@ -1,35 +1,35 @@
-Flint’s Linux/UNIX Experience
+# The author's Linux/UNIX Experience
 
 - 1993-1998 SunOS and later Solaris on Sun servers
-    - Used at university for email, chat, programming, hacking
+  - Used at University
 - 1995-1996 Attempted to configure an x86 PC to be a Linux server
-    - Slackware install using 40+ floppy disks
-    - Miserable experience that resulted in total failure
+  - Slackware install using 40+ floppy disks
+  - Miserable experience that resulted in total failure
 - 1998-2002 PowerPC Apple iMac
-    - Started with MacOS 8 but disliked it
-    - Switched to Yellow Dog Linux, but didn’t understand RPM packages
-    - Switched to MacOS X beta and liked it
+  - Started with MacOS 8 but disliked it
+  - Switched to Yellow Dog Linux, but didn’t understand RPM packages
+  - Switched to MacOS X beta and liked it
 - 2002-2020 Cygwin running on top of Windows
-    - Gave me a Bash shell for scripting my Xilinx builds
-    - Later used scripting for synchronizing all my computers
-    - Eventually switched from Cygwin to WSL
-- 2002-2010 Occasional use of Linux on a x86 PC
-    - Debian attempted a few times but met with failure
-    - Ubuntu was the only distro that installed successfully
-    - Mostly using Windows
-    - Ocasionally testing OpenBSD
+  - Gave me a Bash shell for scripting my Xilinx builds
+  - Later used scripting for synchronizing all my computers
+  - Eventually switched from Cygwin to WSL
+- 2002-2020 Occasional use of Linux on a x86 PC
+  - Debian attempted a few times but met with failure
+  - Ubuntu was the only distro that installed successfully
+  - Mostly using Windows
+  - Ocasionally testing OpenBSD
 - 2010-2020 Occasional use of Linux on older laptops
-    - Ubuntu is the only distro I used consistently
-    - Other distros I tried are Mint and Fedora
-    - Successfully used Yocto Project to build Linux for Freescale iMX6
-- 2015 MacBook Pro and MacOS
-    - Extremely good computer
-    - Homebrew package manager
-    - MacOS was excellent.  It is basically BSD with a nice GUI
+  - Ubuntu is the only distro I used consistently
+  - Other distros I tried are Mint and Fedora
+  - Successfully used Yocto Project to build Linux for Freescale iMX6
+- 2015-2024 MacBook Pro and MacOS X
+  - Extremely good computer
+  - Homebrew package manager
+  - MacOS X is excellent, it is basically BSD with a nice GUI
 - 2020 Heavy use of Linux
-    - Purchased a laptop to use with Linux only
-    - Linux quickly becomes my primary OS on personal and work computers
-    - Started with Ubuntu 18.04, upgraded to Ubuntu 20.04, but ended up disliking Ubuntu after 21.04 due to Gnome
-    - Distro hopping a lot, mostly with VMs, but sometimes to real hardware
-    - Purchased an Intel NUC specifically to test Linux distros and my install scripts
-    - Switched from Ubuntu to Kubuntu to Mint before settling on Siduction (Debian)
+  - Purchased a laptop to use with Linux only
+  - Linux quickly becomes my primary OS on personal and work computers
+  - Started with Ubuntu 18.04, upgraded to Ubuntu 20.04, but ended up distro-hopping after 21.04 due to Gnome
+  - Distro hopping a lot, mostly with VMs, but sometimes to real hardware
+  - Purchased an Intel NUC specifically to test Linux distros and my install scripts
+  - Switched from Ubuntu to Kubuntu to Mint before settling on Siduction (Debian)

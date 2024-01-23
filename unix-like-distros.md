@@ -18,7 +18,7 @@
 - [SunOS](https://en.wikipedia.org/wiki/SunOS)
 - [IRIX](https://en.wikipedia.org/wiki/IRIX) by SGI
 - [True64](https://en.wikipedia.org/wiki/Tru64_UNIX) UNIX (formerly Digital UNIX, formerly OSF/1)
-- [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) and [OpenStep](https://en.wikipedia.org/wiki/OpenStep) by NeXT
+- [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) and [OpenStep](https://en.wikipedia.org/wiki/OpenStep) by NeXT (Purchased by Apple)
 - [Xenix](https://en.wikipedia.org/wiki/Xenix) by Microsoft
 - [UnixWare](https://en.wikipedia.org/wiki/UnixWare) by Novell, Xinuos, Caldera
 

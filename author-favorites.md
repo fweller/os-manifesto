@@ -1,19 +1,32 @@
-Flint’s Favorite Distros
+# The author's favorite Linux distibutions
 
-- Debian/Ubuntu/Mint Ecosystem
-    - Siduction w/ KDE Plasma
-        - Best installer, BtrFS filesystem with rollback, Hibernation to swap, nicely customized.
-    - Mint w/ Cinnamon
-        - Decent installer, ZFS filesystem with rollback, Hibernation to swap
-    - Spiral Linux w/ KDE Plasma
-        - Best installer, BtrFS filesystem with rollback, Hibernation to swap
-    - Kubuntu w/ KDE Plasma
-        - Installer is the same low-end offering of Ubuntu, but at least has better desktop than Gnome
-- Arch/Manjaro Ecosystem
-    - Manjaro w/ KDE Plasma
-        - Best installer, BtrFS filesystem with rollback, Hibernation to swap
-- Fedora/RedHat Ecosystem
-    - Fedora w/ Gnome will provide an environment similar to RHEL, but using KDE Plasma instead is nicer
-- SUSE Ecosystem
-    - OpenSUSE Tumbleweed (or Leap) w/ KDE Plasma
-        - Best installer, BtrFS filesystem with rollback, Hibernation to swap
+## Favorite Linux distros in the Debian ecosystem
+
+- Siduction
+  - Good installer
+  - BtrFS filesystem with rollback, Hibernation to swap, All encrypted
+  - Nicely customized
+- Spiral Linux
+  - Is basically Debian stable but with a better installer
+  - BtrFS filesystem with rollback, Hibernation to swap, All encrypted
+- Mint
+  - Decent installer
+  - ZFS filesystem with rollback, Hibernation to swap, All encrypted
+- Kubuntu
+  - Ubuntu but with a decent DE (Plasma)
+- Ubuntu Studio
+  - Ubuntu but with a decent DE (Plasma) and low-latency kernel
+
+## Favorite Linux distros in the Arch ecosystem
+
+- Manjaro
+  - Good installer
+  - BtrFS filesystem with rollback, Hibernation to swap, All encrypted
+- XeroLinux
+  - Amazing installer providing many options
+
+## Favorite Linux distros not in the above lists
+
+- OpenSUSE
+  - Overall one of the best installation processes
+  - BtrFS filesystem with rollback, Hibernation to swap, All encrypted
