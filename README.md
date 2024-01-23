@@ -38,14 +38,15 @@ These are the topics to consider when comparing Linux distro's
 
 ## Linux distributions
 
-[linux-distros.md](linux-distros.md)
-[linux-distros-debian.md](linux-distros-debian.md)
-[linux-distros-arch.md](linux-distros-arch.md)
-[linux-distros-rhel.md](linux-distros-rhel.md)
-[linux-distros-suse.md](linux-distros-suse.md)
-[linux-distros-gentoo.md](linux-distros-gentoo.md)
-[linux-distros-independent.md](linux-distros-independent.md)
-[linux-distros-non-rhel.md](linux-distros-non-rhel.md)
+The following notes contain a list of all the Linux distributions that I have tried or I at least am aware of.  
+I have split the list into 6 notes, each note is specific to a Linux ecosystem (except for the Independent list)
+
+- [Debian](linux-distros-debian.md) is the ecosystem that has the most distributions
+- [Arch.md](linux-distros-arch.md) is the fastest growing ecosystem today
+- [RHEL.md](linux-distros-rhel.md) is the Red Hat ecosystem that included Fedora
+- [SUSE.md](linux-distros-suse.md) is a smaller ecosystem but is extremely good
+- [Gentoo](linux-distros-gentoo.md) is an ecosystem where all packages are compiled from source
+- [Independent](linux-distros-independent.md) lists all the distributions that are not part of the above 5 ecosystems
 
 ## Unix-like and non-Unix distributions
 
@@ -72,3 +73,4 @@ This needs editing or removal
 [Favorite Linux distributions](author-favorites.md)
 [Recommendations for distro-hopping](author-recommendation.md)
 [GPU (Graphics Processing Unit)](gpu.md)
+

@@ -1,25 +1,34 @@
-Gentoo - Portage
+# Gentoo distributions
+
+All the distributions listed on this page are either actually Gentoo or are downstream of Gentoo
+
+- The package format is eBuild
+- The package manager is Emerge
+
+The most popular distributions on the page are
+
+- Gentoo
+- Chrome OS
 
 - [Gentoo](https://www.gentoo.org/)
-    - source is compiled locally
-    - rolling release
-    - [review](https://blog.desdelinux.net/en/gentoo-la-verdad-tras-el-mito/), big community, big documentation package.  I can see the attention to detail!
-    - I gave this distro a try, it took days to compile everything on my laptop, I do not recall thinking the process was worthwhile, there was no speed boost.
+  - Source is compiled locally
+  - Rolling release
+  - USA
+  - [review](https://blog.desdelinux.net/en/gentoo-la-verdad-tras-el-mito/), big community, big documentation package.  I can see the attention to detail!
+  - I gave this distro a try, it took days to compile everything on my laptop, I do not recall thinking the process was worthwhile as there was no speed boost.
 - [Funtoo](https://www.funtoo.org/Welcome)
-    - claiming: Better pulls, builds, optimizations, etc.  gentoo++
-    - Based on Gentoo
-    - Gnome, lxd, lxqt, mate, KDE Plasma
+  - Claiming better pulls, builds, optimizations, etc
+  - USA
 - [Redcore](https://redcorelinux.org/)
-    - Downstream of Gentoo testing branch
-    - Romania
-    - This distro is maintained by one person which is absolutely amazing.
-    - A fork of Kogaion Linux which was a fork of Sabayon Linux
-    - Goal to be easy to install.  installer is very nice.
-    - KDE Plasma DE is primary
-    - I tested this distro and I think it is a very easy way to get acquainted with the Gentoo environment.  The Sisyphus GUI makes easy work of updates.
+  - Downstream of Gentoo testing branch
+  - KDE Plasma DE is primary
+  - Romania
+  - This distro is maintained by one person which is absolutely amazing
+  - Goal to be easy to install, and the installer is very nice
+  - I tested this distro and I think it is a very easy way to get acquainted with the Gentoo environment.  The Sisyphus GUI makes easy work of updates.
 - [Calculate](https://www.calculate-linux.org/)
-    - Russia
-- [Chrome OS](https://www.google.com/chromebook/chrome-os/)
-    - can seamlessly run android and linux applications, and windows via wine
-    - PWA Progressive Web Apps can function offline
-    - Crostini (debian) distro allows running any linux app
+  - Russia
+- [Chrome OS](https://www.google.com/chromebook/chrome-os/) - *POPULAR*
+  - Can seamlessly run android and Linux applications, and windows via WINE
+  - PWA Progressive Web Apps can function offline
+  - Linux on Chrome OS project is called Crostini and allows running any linux app

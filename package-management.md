@@ -33,7 +33,7 @@ These package formats can be added to any Linux distribution
     - [APT](https://en.wikipedia.org/wiki/APT_%28software%29) (Advanced package tool) core package manager
     - [Aptitude](https://en.wikipedia.org/wiki/Aptitude_%28software%29) front end for APT
     - Nala
-- for [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager)
+- for [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager) (Red Hat Package Manager)
     - [YUM](https://en.wikipedia.org/wiki/Yum_%28software%29) (Yellowdog Update Manager) base
     - [DNF](https://en.wikipedia.org/wiki/DNF_%28software%29) (Dandified YUM) base, next gen from YUM
     - [ZYpp](https://en.wikipedia.org/wiki/ZYpp)  (Zen / YaST Packages Patches Patterns Products)

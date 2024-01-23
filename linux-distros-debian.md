@@ -2,7 +2,7 @@
 
 All the distributions listed on this page are either actually Debian or are downstream of Debian
 
-- The package format is DEB
+- The package format is RPM
 - The package managers are DPKG, APT, Aptitude
 
 The most popular distributions on the page are
