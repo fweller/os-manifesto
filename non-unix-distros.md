@@ -10,7 +10,7 @@ These operating systems are not Unix-like but are worth mentioning
 - [OS/2](https://en.wikipedia.org/wiki/OS/2)
   - IBM operating system for the PC that was intended to replace PC DOS
   - Was technically superior to Microsoft Windows but failed to penetrate the consumer market
-- [Microsoft Windows](https://www.microsoft.com/en-us/windows) * POPULAR *
+- [Microsoft Windows](https://www.microsoft.com/en-us/windows) *POPULAR*
   - #1 desktop OS in the world but losing share each year to MacOS
   - My biggest compliments for this OS are
     - Supports nearly all hardware
@@ -25,10 +25,10 @@ These operating systems are not Unix-like but are worth mentioning
     - Draconian practices by Microsoft to spy on customers
     - Kernel is inefficient
     - Registry is just an awful idea
-    - Not POSIX compliant
-    - Was terrible for scripting, but now it uses Linux Subsystem for Windows which isn't half bad
+    - Not POSIX compliant, but WSL addresses this somewhat
+    - Was terrible for scripting, but now it uses WSL which is awesome
   - Versions of Windows and my opinion on them
-    - 1 , 2 - never touched them
+    - 1 and 2 - never touched them
     - 3 - Used at work, it was awful.  crashed all the time.  looked awful.
     - 95 - Used at work, it was slightly less awful than 3
     - 98 - Used at work, it was slightly less awful than 95
