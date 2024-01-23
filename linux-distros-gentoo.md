@@ -10,6 +10,8 @@ The most popular distributions on the page are
 - Gentoo
 - Chrome OS
 
+List of distributions
+
 - [Gentoo](https://www.gentoo.org/)
   - Source is compiled locally
   - Rolling release
