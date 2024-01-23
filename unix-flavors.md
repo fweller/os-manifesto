@@ -1,9 +1,11 @@
-UNIX flavors ([Single UNIX Specification](https://en.wikipedia.org/wiki/Single_UNIX_Specification))
+# UNIX flavors
+
+[Single UNIX Specification](https://en.wikipedia.org/wiki/Single_UNIX_Specification)
 
 In use as of 2022
 
 - [Linux](https://en.wikipedia.org/wiki/Linux)
-- [macOS](https://en.wikipedia.org/wiki/MacOS) by Apple
+- [MacOS](https://en.wikipedia.org/wiki/MacOS) by Apple
 - [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 - [HP-UX](https://en.wikipedia.org/wiki/HP-UX) (Hewlett Packard Unix) by HP
 - [Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris) by Oracle, Sun originally, for x86 and SPARC
