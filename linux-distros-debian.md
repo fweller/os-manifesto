@@ -179,15 +179,14 @@ The most popular distributions on the page are
   - From KDE for "the best" KDE experience
   - KDE Plasma on Wayland by default
   - Calamares installer
-- [Zorin OS](https://zorin.com/os/) - *POPULAR*
+- [Zorin OS](https://zorin.com/os/)
   - Beautiful alternative to MacOS and Win10
   - Gnome or Xfce
-  - Pro version is paid
   - Ireland
+  - Pro version is paid
 - [Elementary OS](https://elementary.io/)
   - Beautiful alternative to MacOS and Win10
   - Panthea Desktop
-  - I tested this distro but I would not use it because it seems too simple for me
 - [PureOS](https://pureos.net/)
   - Fully Auditable Operating System
   - Offered with Purism laptops
@@ -195,7 +194,7 @@ The most popular distributions on the page are
   - Do i3wm tiling window management on Ubuntu and keep Gnome in the back pocket
   - I tested this distro.  It is a good way to learn how i3wm works while inside a familiar Ubuntu experience.
 - [Bodhi](http://www.bodhilinux.com/)
-  - Moksha WM, lightweight
+  - Moksha WM
 - [Feren OS](https://ferenos.weebly.com/)
   - Downstream of Debian and Ubuntu (previously downstream of Mint)
   - Clamares installer
@@ -206,18 +205,11 @@ The most popular distributions on the page are
   - [Downstream of Ubuntu/Kubuntu](https://www-tuxedocomputers-com.translate.goog/de/Infos/Hilfe-Support/Haeufig-gestellte-Fragen/Was-unterscheidet-TUXEDO-OS-von-Ubuntu/Kubuntu-_1.tuxedo?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
   - KDE Plasma default
   - Designed for Tuxedo Hardware but works on other hardware
-  - Calamares installer, no snap, Firefox is DEB not snap, 
+  - Calamares installer, no snap, Firefox is DEB not snap
   - [download](https://os.tuxedocomputers.com/)
 - [Slimbook OS](https://slimbook.es/en/tutoriales/aplicaciones-slimbook/438-slimbook-operating-system)
   - Downstream of Ubuntu/Kubuntu
   - Designed for Slimbook Hardware
-- [Exton|OS](https://www.exton.net/?p=952) 
-  - Downstream of Ubuntu LTS
-  - KDE plasma 
-  - Uses Calamares installer
-  - Designed for Android development
-- [Macbuntu](https://sourceforge.net/projects/macbuntu/) - EOL
-  - looks like MacOS.  Uses Unity + heavy modification.  Has not been updated in 12 years.
 
 ## Downstream of Ubuntu but not using DEB packaging
 
