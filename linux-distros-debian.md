@@ -17,18 +17,20 @@ The most popular distributions on the page are
 
 ## Debian actual
 
-- [Debian](https://www.debian.org/) 
-  - The Source!
+- [Debian](https://www.debian.org/) *Popular* 
+  - This is the Source!
   - Oldest Linux Distro #2 after Slackware
-  - First Linux Distro that was open for every developer to contribute, and is still the most significant non-commercial distributor of Linux
-  - Has the largest team of volunteer contributors. 
-  - There is corporate support for Debian, but no corporate ownership.
-  - High quality documentation is readily available online.
-  - All of the embedded Linux processors and boards that I support and use have Linux BSP’s that are ultimately derived from Debian, such as Rasberry Pi OS and NXP embedded linux.
-  - The Debian official installer is the slowest installer I have ever used.  One simple installation took over 8 hours compared to 10 minutes for any other installer.
-  - The Calamares installer used on the Live version of the Debian ISO is significantly better.
-  - Debian insists on installer images being free software only, so important drivers are missing. This is extremely annoying and limits the ability of novices to successfully install this distro.  Unofficial installers are available with drivers though, but its not easy to identify them.  The Live version of the ISO provides drivers.
-- Debian branches:
+  - The Good
+    - First Linux Distro that was open for every developer to contribute, and is still the most significant non-commercial distributor of Linux
+    - Has the largest team of volunteer contributors. 
+    - There is corporate support for Debian, but no corporate ownership.
+    - High quality documentation is readily available online.
+    - All of the embedded Linux processors and boards that I support and use have Linux BSP’s that are ultimately derived from Debian, such as Rasberry Pi OS and NXP embedded linux.
+    - The Calamares installer used on the Live version of the Debian ISO is significantly better than the Debian installer.
+  - The Bad
+    - Debian insists on installer images being free software only, so important drivers are missing. This is extremely annoying and limits the ability of novices to successfully install this distro.  Unofficial installers are available with drivers though, but its not easy to identify them.  The Live version of the ISO provides drivers.
+    - The Debian official installer is the slowest installer I have ever used.  One simple installation took over 8 hours compared to 10 minutes for any other installer.
+- Debian branches
   - [Debian “Sid” Unstable](https://wiki.debian.org/DebianUnstable)
     - Rolling release
     - Bleeding-edge like Arch but slightly more stable
@@ -40,46 +42,46 @@ The most popular distributions on the page are
     - Ideal for desktops
   - [Debian Stable](https://www.debian.org/)
     - THE MOST STABLE!
-    - Point release, cadence is every 2 years
+    - Point release with a release cadence of every 2 years
     - Downstream of Debian Testing
     - This is what most people use for desktop, and should be the only branch used on servers
     - [Debian Backports](https://backports.debian.org/) can keep Debian Stable feeling fresh for workstations
 
 ## Downstream of Debian
 
-- [Siduction](https://siduction.org/)
+- [Siduction](https://siduction.org/) *Underrated*
   - Based on Debian "Sid" Unstable
-  - Rolling release, Germany
+  - Rolling release
+  - Germany
   - KDE Plasma, Xfce, Lxqt
   - They write their own user [manual](https://manual.siduction.org/siduction-manual_en.pdf).  Their [github](https://github.com/siduction) stores the configuration and mods to offer to build their distro.
   - The installer is configured for Btrfs with Snapper rollback, all sitting on top of LUKS encryption.
   - This distro is nicely polished and I like it a lot.  I am running it on three of my computers.  
-- [Spiral](https://spirallinux.github.io/)  Linux - *NEW AND PROMISING*
+- [Spiral Linux](https://spirallinux.github.io/) *New and Promising*
   - This is more of a Debian installer than an actual distro
+  - One could think of this as Debian installed properly
   - Based on Debian stable but easily upgraded to Testing or Sid
   - Single developer previously maintained Gecko Linux and has switched to Debian from OpenSUSE
   - KDE Plasma, Cinnamon, Xfce, Gnome, etc
-  - BtrFS + LUKS, Flatpack management through GUI, zRAM,
+  - BtrFS + LUKS, Flatpack management through GUI, zRAM, etc.  
 - [DebianEasy](https://debianeasy.github.io/)
-  - Forked from Spiral, removed some default install apps
-  - Can download the [ISO](https://sourceforge.net/projects/debianeasy-bookworm/files/2023_6_11/) or the [build system](https://github.com/DebianEasy/DebianEasy-iso)
+  - Forked from Spiral and removed some default install apps
   - This distro has potential but as of early 2024 the project is too sloppy to be taken seriously
 - [Neptune](https://neptuneos.com/en/start-page.html)
-  - Based on Debian stable, newer kernel, newer drivers, newer utilities, newer DE, persistent USB installer
+  - Based on Debian stable but with newer kernel, newer drivers, newer utilities, newer DE, persistent USB installer
   - KDE Plasma
   - Germany
-  - I tested this in early 2023 and it is decent.  There are some nice KDE Plasma themes.  Install is okay.  
+  - I tested this in early 2023 and it is decent.  There are some nice KDE Plasma themes.  Install is okay. I feel that this distro is not getting enough developers to make it excellent.
 - [Sparky](https://sparkylinux.org/)
   - Poland
-  - Stable and Testing
 - [SolydXK](https://solydxk.com/)
-  - Based on Debian Stable.  
-  - Netherlands.
+  - Based on Debian Stable  
+  - Netherlands
   - Originally started as Linux Mint Debian Edition with KDE Plasma DE
-  - There are two flavors, KDE and Xfce
-  - SolydK: KDE Plasma DE
-    - I tried SolydK in 2023.  It had not been updated since 2021 and was based on the previously released debian distro, so it felt old.  default partitioning was strange, seperating home from root but using ext4 is not ideal.  at least it allowed me to use xfs filesystem or btrfs on the install, so that has some promise.   it ships with some interesting kde plasma themes which may be worth looking at.   I will not use this.
-  - SolydX: Xfce nDE
+  - There are two flavors: KDE and Xfce
+    - SolydK: KDE Plasma DE
+      - I tried SolydK in 2023.  It had not been updated since 2021 and was based on the previously released debian distro, so it felt old.  default partitioning was strange, seperating home from root but using ext4 is not ideal.  at least it allowed me to use xfs filesystem or btrfs on the install, so that has some promise.   it ships with some interesting kde plasma themes which may be worth looking at.   I will not use this.
+    - SolydX: Xfce DE
 - [MX Linux](https://mxlinux.org/) - *POPULAR*
   - Downstream of Debian Stable
   - KDE Plasma, XFCE, SysVInit w/ systemd-shim
@@ -92,12 +94,12 @@ The most popular distributions on the page are
   - Chinese
 - [Kali](https://en.wikipedia.org/wiki/Kali_Linux)
   - Downstream of Debian testing
-  - For penetration testing.  always root
+  - For penetration testing.  User is always root?
 - [Armbian](https://www.armbian.com/)
   - Debian stable
   - For ARM aarch64
   - XFCE
-  - I tested this distro on the Raspberry Pi4.  It is decent.
+  - I tested this distro on the Raspberry Pi4 and is seemed very good
 - [AntiX](https://antixlinux.com/)
   - For old computers
   - SysV instead of systemd
@@ -111,21 +113,35 @@ The most popular distributions on the page are
 
 ## Ubuntu actual
 
-- [Ubuntu](http://www.ubuntu.com/) - *POPULAR*
-  - Ubuntu pulls packages from Debian Sid (Unstable) and Debian Testing
+- [Ubuntu](http://www.ubuntu.com/) *Popular*
+  - Ubuntu pulls packages from Debian "Sid" Unstable and Debian Testing
   - Most Popular Linux Distro #1 (From 2004 through 2022 at least)
-  - Uses Gnome as their official DE (previously used Unity)
+  - Uses Gnome as their official DE (briefly used Unity)
   - United Kingdom, London & Isle of Man, USA
   - Ubuntu is massively popular because Canonical took a snapshot of Debian testing and made it easy to install and use at a time when Debian was the opposite of easy to install. 
-  - My thoughts
+  - My opinions
     - I have used this distro non-stop since 2006, it has been installed on nearly every computer I own, I have used it for work and personal, and I have always come back to it after a bout of distro hopping, until recently.
-    - PROs: I respect Canonical and the work it has done in the past for Ubuntu, and I trust the quality (stability) of the Ubuntu product, and the focus on security.  These are very good reasons to use Ubuntu, especially in a corporate setting.
-    - CONs: I feel that Ubuntu 20.04 was the pinnacle release, and every release afterwards has been a devolution.  Canonical has lost focus on keeping Ubuntu competitive as a desktop & laptop distro.  I feel that Canonical is focused on Ubuntu server (which is excellent) and services, and they use the desktop products to maintain their presence in the community. I do not like that modern filesystems are not easily supported by the installer (although it is possible to manually use them).  I feel that Ubuntu is sitting still technologically, while all other distros are adopting better methods (installer, filesystems, features). I also feel that Ubuntu is not a well polished distro, it seems roughly put together, compared to the more polished distros like Manjaro.
-  - [Derivatives of Ubuntu](https://wiki.ubuntu.com/DerivativeTeam/Derivatives) (nearly everything on the list below)
-- [Ubuntu Flavors](https://ubuntu.com/desktop/flavours) - Official flavors
-  - [Kubuntu](https://kubuntu.org/) KDE Plasma - This is my favorite flavor of Ubuntu
-  - [Lubuntu](https://lubuntu.net/) LXDE/LXQT
+    - The Good
+      - I respect Canonical and the work it has done in the past for Ubuntu, and I trust the quality (stability) of the Ubuntu product, and the focus on security.  
+      - These are very good reasons to use Ubuntu, especially in a corporate setting.
+      - Ubuntu server is excellent
+    - The bad
+      - I fear that Canonical has lost focus on keeping Ubuntu competitive as a desktop and laptop distro
+      - The canonical installers are barely functional yet they refuse to adopt Calamares
+      - The installers used to support more advanced filesystems such as ZFS but now can barely handle the most basic requests
+
+## Ubuntu Flavors
+
+- [Derivatives of Ubuntu](https://wiki.ubuntu.com/DerivativeTeam/Derivatives) (nearly everything on the list below)
+- [Ubuntu Flavors](https://ubuntu.com/desktop/flavours) Official flavors
+  - [Kubuntu](https://kubuntu.org/) KDE Plasma *Popular*
+    - This is my favorite flavor of Ubuntu
+  - [Ubuntu Studio](https://ubuntustudio.org/) Multimedia focused
+    - KDE Plasma is default
+    - This is a really awesome distro to install and immediately get an A/V workstation
+    - Kernel modified to support low-latency for better audio usage
   - [Xubuntu](https://xubuntu.org/) XFCE
+  - [Lubuntu](https://lubuntu.net/) LXDE/LXQT
   - [Ubuntu Cinnamon](https://ubuntucinnamon.org/) Cinnamon
   - [Ubuntu MATE](https://ubuntu-mate.org/) Mate
   - [Ubuntu Budgie](https://ubuntubudgie.org/) Budgie 
@@ -133,12 +149,6 @@ The most popular distributions on the page are
     - looks just like MacOS
   - [Ubuntu Unity](https://ubuntuunity.org/)
     - Unity 7 with Yaru
-    - [2022-10 is an official flavor of Ubuntu again](https://ubuntuunity.org/blog/ubuntu-unity-becomes-an-official-flavor/)
-  - [Ubuntu Studio](https://ubuntustudio.org/) - Multimedia focused
-    - KDE Plasma is default
-    - Audio routing tools
-    - Kernel modified to support low-latency for better audio usage
-    - This is a decent distro
 - Ubuntu community remixes - Unofficial flavors
   - [Ubuntu DDE](https://ubuntudde.com/)
     - Deepin DE without using Chinese Deepin OS
@@ -146,10 +156,10 @@ The most popular distributions on the page are
 
 ## Downstream of Ubuntu
 
-- [Linux Mint](https://linuxmint.com/) - *POPULAR*
+- [Linux Mint](https://linuxmint.com/) *Popular*
   - Downstream of Ubuntu LTS
-  - Cinnamon developer
   - Most Popular Linux Distro #2 after Ubuntu
+  - Cinnamon developer
   - This is the most refined Linux distro in the Debian/Ubuntu ecosystem, and among the very best amongst all Linux distros.
   - This distro could be called "Ubuntu configured properly and with a better desktop environment"
   - I have tested this distro many times over the past 10 years, most recently 2022, and i find that i like the cinnamon desktop a lot.  it is simple, clean, attractive, functional.  with gTile I am able to customize window grid snapping. 
@@ -157,13 +167,14 @@ The most popular distributions on the page are
   - Is actually downstream of Debian instead of Ubuntu
   - Cinnamon default
   - [Needs some tuning to work nicely](https://linuxmint.com/rel_elsie.php)
-- [Pop!_OS](https://pop.system76.com/) - *POPULAR*
+- [Pop!_OS](https://pop.system76.com/) *Popular*
   - Gnome default
   - Supports almost every type of [desktop](https://support.system76.com/articles/desktop-environment/)
   - Good for graphics cards.  Two ISO's: AMD vs Nvidia. [roadmap](https://support.system76.com/articles/roadmap/)
   - [Documentation](https://support.system76.com/#pop)
-  - I tested this distro multiple times, 2022 most recently.  they do some things very well, especially concerning proprietary drivers.  i found the Pop desktop to be distracting and annoying on Gnome, and awful on KDE plasma; perhaps i need more time to understand the desktop. 
-- [KDE Neon](https://neon.kde.org/index) 
+  - I tested this distro multiple times, 2022 most recently, they do some things very well, especially concerning proprietary drivers.  
+  - I found the Pop desktop to be distracting and annoying on Gnome, and awful on KDE plasma; perhaps i need more time to understand the desktop. 
+- [KDE Neon](https://neon.kde.org/index) *Underrated*
   - Ubuntu LTS
   - From KDE for "the best" KDE experience
   - KDE Plasma on Wayland by default
