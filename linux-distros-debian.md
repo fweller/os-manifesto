@@ -11,15 +11,12 @@ The most popular distributions on the page are
 - Ubuntu (including Kubuntu, Xubuntu)
 - Linux Mint
 - PopOS
-- MX Linux
-- Deepin
-- Zorin OS
 
 ## Debian actual
 
 - [Debian](https://www.debian.org/) *Popular* 
-  - This is the Source!
   - Oldest Linux Distro #2 after Slackware
+  - This is the Source!
   - The Good
     - First Linux Distro that was open for every developer to contribute, and is still the most significant non-commercial distributor of Linux
     - Has the largest team of volunteer contributors. 
@@ -114,30 +111,32 @@ The most popular distributions on the page are
 ## Ubuntu actual
 
 - [Ubuntu](http://www.ubuntu.com/) *Popular*
-  - Ubuntu pulls packages from Debian "Sid" Unstable and Debian Testing
   - Most Popular Linux Distro #1 (From 2004 through 2022 at least)
+  - Ubuntu pulls packages from Debian "Sid" Unstable and Debian Testing
   - Uses Gnome as their official DE (briefly used Unity)
   - United Kingdom, London & Isle of Man, USA
   - Ubuntu is massively popular because Canonical took a snapshot of Debian testing and made it easy to install and use at a time when Debian was the opposite of easy to install. 
-  - My opinions
-    - I have used this distro non-stop since 2006, it has been installed on nearly every computer I own, I have used it for work and personal, and I have always come back to it after a bout of distro hopping, until recently.
-    - The Good
-      - I respect Canonical and the work it has done in the past for Ubuntu, and I trust the quality (stability) of the Ubuntu product, and the focus on security.  
-      - These are very good reasons to use Ubuntu, especially in a corporate setting.
-      - Ubuntu server is excellent
-    - The bad
-      - I fear that Canonical has lost focus on keeping Ubuntu competitive as a desktop and laptop distro
-      - The canonical installers are barely functional yet they refuse to adopt Calamares
-      - The installers used to support more advanced filesystems such as ZFS but now can barely handle the most basic requests
+  - I have used this distro non-stop since 2006, it has been installed on nearly every computer I own, I have used it for work and personal, and I have always come back to it after a bout of distro hopping, until version 21.04
+  - The Good
+    - The Ubuntu 6-month point release cadence is very nice compared to the Debian 2-year point release cadence
+    - Ubuntu is a high quality distribuion that will work on most computers with most hardare and will experience few bugs
+    - There is a lot of training material online for Ubuntu
+    - Ubuntu server is excellent
+  - The bad
+    - I fear that Canonical has lost focus on keeping Ubuntu competitive as a desktop and laptop distro
+    - The canonical installers are barely functional, yet they refuse to adopt Calamares
+    - The installers previously support more advanced filesystems and alternative install techniques, but now can barely handle the most basic requests
+    - Ubuntu is continually losing popularity to other distros that are putting more attention into their product than Canonical is
 
 ## Ubuntu Flavors
 
 - [Derivatives of Ubuntu](https://wiki.ubuntu.com/DerivativeTeam/Derivatives) (nearly everything on the list below)
 - [Ubuntu Flavors](https://ubuntu.com/desktop/flavours) Official flavors
-  - [Kubuntu](https://kubuntu.org/) KDE Plasma *Popular*
-    - This is my favorite flavor of Ubuntu
+  - [Kubuntu](https://kubuntu.org/) *Popular*
+    - KDE Plasma DE
+    - This is the best version of Ubuntu
   - [Ubuntu Studio](https://ubuntustudio.org/) Multimedia focused
-    - KDE Plasma is default
+    - KDE Plasma DE with nice themeing
     - This is a really awesome distro to install and immediately get an A/V workstation
     - Kernel modified to support low-latency for better audio usage
   - [Xubuntu](https://xubuntu.org/) XFCE
@@ -157,8 +156,8 @@ The most popular distributions on the page are
 ## Downstream of Ubuntu
 
 - [Linux Mint](https://linuxmint.com/) *Popular*
-  - Downstream of Ubuntu LTS
   - Most Popular Linux Distro #2 after Ubuntu
+  - Downstream of Ubuntu LTS
   - Cinnamon developer
   - This is the most refined Linux distro in the Debian/Ubuntu ecosystem, and among the very best amongst all Linux distros.
   - This distro could be called "Ubuntu configured properly and with a better desktop environment"

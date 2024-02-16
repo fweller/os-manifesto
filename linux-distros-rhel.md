@@ -12,13 +12,11 @@ The most popular distributions on the page are
 
 All the the following distros are part of the RHEL ecosystem
 
-- [Fedora](https://getfedora.org/) - *POPULAR*
+- [Fedora](https://getfedora.org/) *Popular*
   - This is the free testing ground upstream of RHEL
-  - Support is for 13 months, update every 6 months
-  - Uses DNF instead of YUM for packages
-  - Gnome is the DE
+  - Gnome DE just like Ubuntu
   - Linus Torvalds uses Fedora for himself and his family
-  - I tested this distro, it works very well and seems mature and refined, but I would not use it unless I needed to operate within the Red Hat environment.
+  - I tested this distro, it works very well and seems mature and refined, but I would not use it unless I needed to operate within the Red Hat environment
   - [Fedora Spins](https://spins.fedoraproject.org/)
     - Spins provide all the other desktop environments
     - If I needed to operate in the Red Hat RPM world, I would happily select the Fedora KDE Plasma spin
