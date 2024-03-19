@@ -16,7 +16,7 @@ All the the following distros are part of the RHEL ecosystem
   - This is the free testing ground upstream of RHEL
   - Gnome DE just like Ubuntu
   - Linus Torvalds uses Fedora for himself and his family
-  - I tested this distro, it works very well and seems mature and refined, but I would not use it unless I needed to operate within the Red Hat environment
+  - I tested this distro, it works very well and seems mature and refined, but I would not use it unless I needed to operate within the Red Hat environment because I am more familiar with Debian/Ubuntu.
   - [Fedora Spins](https://spins.fedoraproject.org/)
     - Spins provide all the other desktop environments
     - If I needed to operate in the Red Hat RPM world, I would happily select the Fedora KDE Plasma spin
@@ -31,8 +31,10 @@ All the the following distros are part of the RHEL ecosystem
   - Oldest Linux Distro #4 after SUSE
   - Highly stable
   - USA
-  - The leader in enterprise server and cloud linux, Now owned by IBM
-  - This may be the best Linux server OS
+  - The world leader in enterprise server and cloud linux
+  - Purchased by IBM as of 2019
+    - This does not make them evil
+  - This may be the best Linux server and workstation OS
   - Can get a [free version](https://iceburn.medium.com/use-rhel-for-free-red-hat-developer-program-2de06219d807)
 - [CentOS](https://www.centos.org/) (Community Enterprise Operating System)
   - EOL as of 2020 December
