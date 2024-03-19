@@ -20,7 +20,9 @@ These are the topics to consider when comparing Linux distro's
 - What is the target useage? (server, desktop, embedded, everything)
 - Is distro focused on stability or bleeding edge or something in between?
 - Is the distro sponsored by a corporation or even owned by a corporation?
+  - Corporate sponsorship goes a long way to enabling the success of a distribution
 - Is paid support available?
+  - Paying someone to fix your computer can save hours to weeks of your time.
 - How many developers are working on the distro?
   - Thousands, hundreds, dozens, a few, one?
   - Distros with only a few developers can easily become abandoned
@@ -65,4 +67,4 @@ Reading about [Linux facts and statistics](linux-facts.md) is entertaining
 - [My recommendations to you for for distro-hopping](author-recommendation.md)
 - My warning to you about how the [GPU (Graphics Processing Unit)](gpu.md) in your computer may affect your enjoyment of installing Linux
 - [My experience with Unix-like operating systems](author-experience.md)
-- [My Favorite Linux distributions](author-favorites.md)
+- [My favorite linux distributions](author-favorites.md)
